@@ -3,6 +3,9 @@
 ## Overview
 This project is an AI-assisted resume improvement system with two focused flows: **Refinery** for role-based gap analysis and **Tailor** for job-specific resume tailoring. It identifies capability gaps, proposes grounded improvements, and supports review before applying changes. Export produces validation-safe DOCX outputs built from structured resume data.
 
+<img width="1920" height="685" alt="Refinery" src="https://github.com/user-attachments/assets/8e136f9d-ba5a-4134-990a-1544db51416e" />
+<img width="1920" height="945" alt="Tailor" src="https://github.com/user-attachments/assets/4ff07ce4-8acf-4d5d-95d0-2e4af6ed655e" />
+
 ## Key Features
 - Refinery: role-based gap analysis and actionable recommendations
 - Tailor: job-specific resume optimization
